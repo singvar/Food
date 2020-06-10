@@ -138,7 +138,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     window.addEventListener('scroll', showModalByScroll);
 
-    // Create Class for product cards
+    // Creating Class for product cards
     
     class MenuCard {
         constructor(src, alt, title, descr, price, parentSelector, ...classes) {
