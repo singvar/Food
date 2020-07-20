@@ -26,6 +26,5 @@ window.addEventListener('DOMContentLoaded', () => {
         },
         body: JSON.stringify(textNodes)
     })
-    .then(response => response.json())
-    .then(json => console.log(json));
+    .then(response => response.json());
 }); 
