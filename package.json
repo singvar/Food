@@ -17,10 +17,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnnyStraponi/Food.git"
+    "url": "git+https://github.com/singvar/Food.git"
   },
   "bugs": {
-    "url": "https://github.com/JohnnyStraponi/Food/issues"
+    "url": "https://github.com/singvar/Food/issues"
   },
-  "homepage": "https://github.com/JohnnyStraponi/Food#readme"
+  "homepage": "https://github.com/singvar/Food#readme"
 }
